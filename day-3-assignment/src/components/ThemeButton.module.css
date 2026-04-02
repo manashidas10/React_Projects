@@ -1,0 +1,19 @@
+.btnBase {
+  padding: 10px 20px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s;
+  margin-top: 10px;
+}
+
+.btnLight {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.btnDark {
+  background-color: #333;
+  color: #fff;
+}
